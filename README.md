@@ -1,6 +1,6 @@
 # King-Up
 
-This project is a digital implementation of the board game King Up! implemented in Java. The game is designed to be played by one human player against three automated computer players. The rules closely follow the official [game rules (https://www.ultraboardgames.com/king-up/game-rules.php)], with the modification that only a single round is played.
+This project is a digital implementation of the board game King Up! implemented in Java. The game is designed to be played by one human player against three automated computer players. The rules closely follow the official [game rules](https://www.ultraboardgames.com/king-up/game-rules.php), with the modification that only a single round is played.
 
 **Gameplay Overview**
 In King Up!, players compete to crown their chosen character as the King by the end of the round. Each player, including the human, takes turns performing actions such as placing characters, moving them on the board, and voting. The computer players make their decisions based on pre-defined strategies, while the human player makes their choices interactively.
