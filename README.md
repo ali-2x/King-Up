@@ -1,6 +1,6 @@
 # King-Up
 
-This project is a digital implementation of the board game King Up!, developed as an assignment for the programming course - Problem Solving using Object Oriented Programming in Java. The game is designed to be played by one human player against three automated computer players. The rules closely follow the official [game rules(https://www.ultraboardgames.com/king-up/game-rules.php)], with the modification that only a single round is played.
+This project is a digital implementation of the board game King Up! implemented in Java. The game is designed to be played by one human player against three automated computer players. The rules closely follow the official [game rules (https://www.ultraboardgames.com/king-up/game-rules.php)], with the modification that only a single round is played.
 
 **Gameplay Overview**
 In King Up!, players compete to crown their chosen character as the King by the end of the round. Each player, including the human, takes turns performing actions such as placing characters, moving them on the board, and voting. The computer players make their decisions based on pre-defined strategies, while the human player makes their choices interactively.
@@ -17,3 +17,8 @@ In King Up!, players compete to crown their chosen character as the King by the 
 * Start the game and follow the on-screen prompts to make your moves.
 * Compete against the computer players to strategically place, move, and vote for your characters.
 * The game ends after one round, and the player with the most points wins.
+
+**Acknowledgments**
+
+This project was developed as part of a programming assignment for the course - Problem Solving using Object Oriented Programming in Java.
+Designed By: Dr. Kevin Wang, Lecturer at HKBU Computer Science Department
